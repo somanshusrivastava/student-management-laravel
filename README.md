@@ -1,4 +1,7 @@
-
+![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
+![PHP](https://img.shields.io/badge/PHP-8.x-blue)
+![Blade](https://img.shields.io/badge/Template-Blade-orange)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 
 # 🎓 Student Management System (Laravel CRUD)
